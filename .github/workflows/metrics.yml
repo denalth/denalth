@@ -88,7 +88,7 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_mode: recent
           plugin_music_limit: 5
-          plugin_music_token: ${{ secrets.24e3e463da904d67b9d0ef5d0a969a32 }}|${{ secrets.1814094260bc493bafacc53a69da6d08 }}
+          plugin_music_token: ${{ 24e3e463da904d67b9d0ef5d0a969a32 }}|${{ 1814094260bc493bafacc53a69da6d08 }}
 
           # ▶️ YOUTUBE via RSS
           plugin_rss: no
