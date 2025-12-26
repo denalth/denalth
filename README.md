@@ -69,10 +69,10 @@ Aqui você vai encontrar:
 
 - Email: seuemail@exemplo.com  
 - LinkedIn: seu-linkedin  
-- Portfólio (em construção): seu-site  -->
+- Portfólio (em construção): seu-site
 
 ---
-
+-->
 ## ✨ Visão
 
 Quero construir uma trajetória sólida na tecnologia, aprendendo com consistência e criando projetos que reflitam meu crescimento.  
