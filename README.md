@@ -1,7 +1,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=denalth&color=4C6EF5)
 ![Status](https://img.shields.io/badge/learning-AI-blue)
-![Focus](https://img.shields.io/badge/focus-growth-success)
 
+
+## 📊 Métricas do GitHub
+
+<img src="./metrics.svg" alt="GitHub Metrics">
 
 
 ## 👋 Olá, eu sou o Denalth
