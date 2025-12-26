@@ -1,8 +1,8 @@
-name: Metrics_old
+name: Metric
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Atualiza a cada 6 horas
+    - cron: "0 */6 * * *" # Atualiza a cada 6 horas
   workflow_dispatch:
 
 jobs:
@@ -14,21 +14,31 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Usuário
+          # ---------------------------------------------------------
+          # 🔐 TOKEN PRINCIPAL (GitHub)
+          # ---------------------------------------------------------
           user: denalth
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Template avançado e moderno
+          # ---------------------------------------------------------
+          # 🎨 TEMPLATE BONITO
+          # ---------------------------------------------------------
           template: github
+
+          # ---------------------------------------------------------
+          # ⚙️ CONFIGURAÇÕES GERAIS
+          # ---------------------------------------------------------
           base: header, activity, community, repositories, metadata
-
-          # Configurações visuais
           config_timezone: America/Fortaleza
-          config_twemoji: yes
-          config_animations: yes
+          config_twemoji: no
+          config_animations: no
           config_display: large
+          config_padding: 8, 12
 
-          # Plugins ativados
+          # ---------------------------------------------------------
+          # 🔥 PLUGINS AVANÇADOS
+          # ---------------------------------------------------------
+
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: percentage
@@ -49,20 +59,43 @@ jobs:
 
           plugin_lines: yes
 
-          plugin_repositories: yes
+          plugin_repositories: no
           plugin_repositories_featured: denalth/denalth
 
-          plugin_stars: yes
+          plugin_stars: no
           plugin_stars_limit: 5
 
+          # 📅 Calendário trimestral
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: quarter
 
           plugin_habits: yes
           plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          plugin_habits_charts: no
 
-          plugin_calendar: yes
+          plugin_calendar: no
 
-          # Saída
+          plugin_commit_calendar: no
+
+          plugin_code: yes
+
+          # ---------------------------------------------------------
+          # 🌐 PLUGINS EXTERNOS
+          # ---------------------------------------------------------
+
+          # 🎧 SPOTIFY — requer client ID e secret
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_mode: recent
+          plugin_music_limit: 5
+          plugin_music_token: ${{ secrets.24e3e463da904d67b9d0ef5d0a969a32 }}|${{ secrets.1814094260bc493bafacc53a69da6d08 }}
+
+          # ▶️ YOUTUBE via RSS
+          plugin_rss: no
+          plugin_rss_source: https://www.youtube.com/feeds/videos.xml?channel_id=SEU_CHANNEL_ID
+          plugin_rss_limit: 5
+
+          # ---------------------------------------------------------
+          # 📄 ARQUIVO DE SAÍDA
+          # ---------------------------------------------------------
           filename: metrics.svg
