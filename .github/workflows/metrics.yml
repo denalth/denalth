@@ -16,6 +16,7 @@ jobs:
         with:
           # Usuário
           user: denalth
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Template avançado e moderno
           template: terminal
