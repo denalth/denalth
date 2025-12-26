@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Template avançado e moderno
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
 
           # Configurações visuais
