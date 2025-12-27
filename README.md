@@ -2,11 +2,6 @@
 ![Status](https://img.shields.io/badge/learning-AI-blue)
 
 
-## 📊 Métricas do GitHub
-
-<img src="./metrics.svg" alt="GitHub Metrics">
-
-
 ## 👋 Olá, eu sou o Denalth
 
 # 🎯 Um idealista construindo sua jornada na tecnologia
@@ -84,8 +79,8 @@ Aqui você vai encontrar:
   <img alt="Snake animation" src="https://raw.githubusercontent.com/denalth/denalth/output/github-contribution-grid-snake.svg">
 </picture>
 
----
 <!--
+---
 ## 🌐 Como me encontrar
 
 - Email: seuemail@exemplo.com  
