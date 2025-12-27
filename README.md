@@ -5,12 +5,7 @@
 ## 📊 Métricas do GitHub
 
 <img src="./metrics.svg" alt="GitHub Metrics">
-<!-- Animação da cobrinha -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denalth/denalth/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denalth/denalth/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/denalth/denalth/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 ## 👋 Olá, eu sou o Denalth
 
@@ -81,7 +76,7 @@ Aqui você vai encontrar:
 
 ---
 
-## 🐍 Animação da Cobrinha
+<!-- 🐍 Animação da Cobrinha -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denalth/denalth/output/github-contribution-grid-snake-dark.svg">
@@ -103,9 +98,11 @@ Aqui você vai encontrar:
 
 Quero construir uma trajetória sólida na tecnologia, aprendendo com consistência e criando projetos que reflitam meu crescimento.  
 Cada repositório aqui representa um passo dessa jornada — e cada passo nasce de uma ideia.
+---
 
+## 📊 Métricas do GitHub
 
-
+<img src="./metrics.svg" alt="GitHub Metrics">
 
 
 
