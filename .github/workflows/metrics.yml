@@ -28,7 +28,7 @@ jobs:
           # ---------------------------------------------------------
           # ⚙️ CONFIGURAÇÕES GERAIS
           # ---------------------------------------------------------
-          base: header, #activity, community, repositories, metadata
+          base: header, activity, community, repositories, metadata
           config_timezone: America/Fortaleza
           config_twemoji: yes
           config_animations: yes
