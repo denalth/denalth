@@ -30,8 +30,8 @@ jobs:
           # ---------------------------------------------------------
           base: header, activity, community, repositories, metadata
           config_timezone: America/Fortaleza
-          config_twemoji: no
-          config_animations: no
+          config_twemoji: yes
+          config_animations: yes
           config_display: large
           config_padding: 8, 12
 
