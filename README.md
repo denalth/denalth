@@ -5,10 +5,6 @@
 ## 📊 Métricas do GitHub
 
 <img src="./metrics.svg" alt="GitHub Metrics">
-
-
-## 👋 Olá, eu sou o Denalth
-
 <!-- Animação da cobrinha -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denalth/denalth/output/github-contribution-grid-snake-dark.svg">
@@ -16,19 +12,20 @@
   <img alt="Snake animation" src="https://raw.githubusercontent.com/denalth/denalth/output/github-contribution-grid-snake.svg">
 </picture>
 
-# 🎯 Construindo minha jornada na tecnologia
+## 👋 Olá, eu sou o Denalth
 
-Bem-vindo ao meu espaço no GitHub. Aqui registro minha evolução como desenvolvedor, explorando ideias, aprendendo novas ferramentas e transformando curiosidade em projetos reais.  
-Minha identidade visual segue uma linha **minimalista, limpa e moderna**, refletindo foco e profissionalismo.
+# 🎯 Um idealista construindo sua jornada na tecnologia
+
+Bem-vindo ao meu espaço no GitHub. Aqui registro minha evolução como idealista que está entrando no universo da tecnologia, explorando ideias, aprendendo fundamentos e transformando curiosidade em projetos reais.  
 
 ---
 
 ## 🧭 Sobre mim
 
-Sou um idealista em início de carreira, explorando diferentes áreas da tecnologia para descobrir onde posso criar o maior impacto.  
-Acredito em aprendizado contínuo, boas práticas e na construção de soluções que façam sentido.
+Sou um idealista em início de jornada, explorando diferentes áreas da tecnologia para descobrir onde posso criar impacto real.  
+Acredito em aprendizado contínuo, boas práticas e na construção de soluções funcionais e bem estruturadas.
 
-Atualmente estudando com apoio de ferramentas de IA como **antigravity**, **z.ai**, **Copilot** e **Google AI Studio**, que aceleram meu processo de aprendizado e experimentação.
+Atualmente estudo com apoio de ferramentas de IA como **Google AI Studio**, **Antigravity**, **z.ai** e **Microsoft Copilot**, que aceleram meu processo de aprendizado e prototipagem.
 
 ---
 
@@ -39,20 +36,20 @@ Atualmente estudando com apoio de ferramentas de IA como **antigravity**, **z.ai
 - Desenvolvimento web  
 - Git e GitHub  
 - Boas práticas de código  
-- Uso de IA para estudo e prototipagem  
+- Uso de IA para estudo e criação de protótipos  
 
 ---
 
 ## 🛠️ Ferramentas e Tecnologias
 
-> Ainda definindo minha stack principal — explorando para entender o que faz mais sentido para mim.
+> Ainda definindo minha stack principal — explorando possibilidades para entender o que faz mais sentido para mim.
 
-- HTML, CSS, PHP  
+- HTML, CSS, PHP, PowerShell
 - Python  
 - Git & GitHub  
 - VS Code, Antigravity  
 - Ferramentas de IA (z.ai, Copilot, Google AI Studio)  
-- Ferramentas de estudo e prototipagem  
+- Ferramentas de estudo e prototipagem   
 
 ---
 
@@ -66,11 +63,31 @@ Aqui você vai encontrar:
 - Experimentos com diferentes linguagens e ferramentas  
 
 ---
-<!--
-## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=denalth&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denalth&layout=compact&theme=transparent&langs_count=7)
+## 🧰 Ferramentas do meu dia a dia
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
+
+---
+
+## 🕒 Linha do Tempo de Aprendizado
+
+- **2024** — Início dos estudos em tecnologia  
+- **2024–2025** — Explorando HTML, CSS, JavaScript e Python  
+- **2025** — Estudando com IA (antigravity, z.ai, Copilot, Google AI Studio)  
+- **Agora** — Construindo projetos pequenos e evoluindo minha base técnica  
+
+---
+
+## 🐍 Animação da Cobrinha
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denalth/denalth/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denalth/denalth/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/denalth/denalth/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 <!--
@@ -78,14 +95,14 @@ Aqui você vai encontrar:
 
 - Email: seuemail@exemplo.com  
 - LinkedIn: seu-linkedin  
-- Portfólio (em construção): seu-site
-
----
+- Portfólio (em construção): seu-site  
 -->
+---
+
 ## ✨ Visão
 
 Quero construir uma trajetória sólida na tecnologia, aprendendo com consistência e criando projetos que reflitam meu crescimento.  
-Cada repositório aqui representa um passo dessa jornada.
+Cada repositório aqui representa um passo dessa jornada — e cada passo nasce de uma ideia.
 
 
 
