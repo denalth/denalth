@@ -12,7 +12,7 @@ jobs:
       contents: write
 
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           # ---------------------------------------------------------
           # 🔐 TOKEN PRINCIPAL (GitHub)
@@ -74,8 +74,6 @@ jobs:
           plugin_habits_charts: no
 
           plugin_calendar: no
-
-          plugin_commit_calendar: no
 
           plugin_code: yes
 
