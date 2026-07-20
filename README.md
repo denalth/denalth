@@ -44,7 +44,7 @@
 
 ## 🧬 Stack
 
-```
+```text
 Automação    PowerShell 5.1+ · WPF/XAML · winget · GPO · BITS · DPAPI
 Web          Next.js 15 (App Router) · React 19 · TypeScript · Tailwind
 Backend      Supabase (PostgreSQL + RLS) · NestJS · Prisma · Edge Functions
@@ -59,7 +59,7 @@ Testes       Pester · Vitest · Playwright
 
 ## 🧭 Princípios de engenharia
 
-```
+```text
 Anti-Frágil            Sistemas que melhoram sob estresse
 Autodocumentado        Código é a documentação primária
 Observável             Tudo emite sinais. Sem sinais, não existe.
@@ -84,7 +84,7 @@ Zero Mediocridade      Rigor técnico inabalável
 
 ## 📫 Contato
 
-```
+```text
 denalth@gmail.com
 github.com/denalth
 Fortaleza/CE · Brasil
