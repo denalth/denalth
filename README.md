@@ -8,7 +8,7 @@
 
 <h1>
   <sub><b>&gt; denalth.singularity</b></sub><br>
-  <sup><code>status: ANTI-FRÁGIL ✓</code></sup>
+  <sup><code>status: ADAPTATIVO ✓</code></sup>
 </h1>
 
 <p>
@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  Construo sistemas <strong>Anti-Frágeis</strong>, autodocumentados e observáveis &mdash;<br>
+  Construo sistemas <strong>adaptativos</strong>, autodocumentados e observáveis &mdash;<br>
   do PowerShell enterprise a pipelines cognitivos com agentes de IA.
 </p>
 
@@ -60,7 +60,7 @@ Testes       Pester · Vitest · Playwright
 ## 🧭 Princípios de engenharia
 
 ```text
-Anti-Frágil            Sistemas que melhoram sob estresse
+Adaptativo             Sistemas que se ajustam ao contexto mantendo a essência
 Autodocumentado        Código é a documentação primária
 Observável             Tudo emite sinais. Sem sinais, não existe.
 95% de Certeza         Abaixo disso, declarar "dados insuficientes"
