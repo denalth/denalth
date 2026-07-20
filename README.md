@@ -7,7 +7,7 @@
 <br>
 
 <h1>
-  <sub><b>&gt; denalth.singularity</b></sub><br>
+  <sub><b>&gt; denalth</b></sub><br>
   <sup><code>status: ADAPTATIVO ✓</code></sup>
 </h1>
 
