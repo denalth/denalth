@@ -1,118 +1,101 @@
-![Profile Views](https://komarev.com/ghpvc/?username=denalth&color=4C6EF5)
-![Status](https://img.shields.io/badge/learning-AI-blue)
+<div align="center">
 
+<!-- HERO ───────────────────────────────────────────────────────────── -->
 
-## 👋 Olá, eu sou o Denalth
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1117,50:00E5FF,100:B388FF&height=120&section=header&fontSize=0" alt="banner" />
 
-# 🎯 Um idealista construindo sua jornada na tecnologia
+<br>
 
-Bem-vindo ao meu espaço no GitHub. Aqui registro minha evolução como idealista que está entrando no universo da tecnologia, explorando ideias, aprendendo fundamentos e transformando curiosidade em projetos reais.  
+<h1>
+  <sub><b>&gt; denalth.singularity</b></sub><br>
+  <sup><code>status: ANTI-FRÁGIL ✓</code></sup>
+</h1>
 
----
-
-## 🧭 Sobre mim
-
-Sou um idealista em início de jornada, explorando diferentes áreas da tecnologia para descobrir onde posso criar impacto real.  
-Acredito em aprendizado contínuo, boas práticas e na construção de soluções funcionais e bem estruturadas.
-
-Atualmente estudo com apoio de ferramentas de IA como **Google AI Studio**, **Antigravity**, **z.ai** e **Microsoft Copilot**, que aceleram meu processo de aprendizado e prototipagem.
-
----
-
-## 📚 O que estou aprendendo
-
-- Fundamentos de programação  
-- Lógica e algoritmos  
-- Desenvolvimento web  
-- Git e GitHub  
-- Boas práticas de código  
-- Uso de IA para estudo e criação de protótipos  
-
----
-
-## 🛠️ Ferramentas e Tecnologias
-
-> Ainda definindo minha stack principal — explorando possibilidades para entender o que faz mais sentido para mim.
-
-- HTML, CSS, PHP, PowerShell
-- Python  
-- Git & GitHub  
-- VS Code, Antigravity  
-- Ferramentas de IA (z.ai, Copilot, Google AI Studio)  
-- Ferramentas de estudo e prototipagem   
-
----
-
-## 🚀 Projetos e Estudos
-
-Aqui você vai encontrar:
-
-- Projetos pequenos criados para praticar conceitos  
-- Protótipos de ideias que pretendo evoluir  
-- Repositórios de estudo organizados  
-- Experimentos com diferentes linguagens e ferramentas  
-
----
-
-## 🧰 Ferramentas do meu dia a dia
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+<p>
+  <strong>Denalth Magalhães</strong><br>
+  <em>Arquiteto de Ecossistemas de IA</em>
 </p>
 
+<p>
+  Construo sistemas <strong>Anti-Frágeis</strong>, autodocumentados e observáveis &mdash;<br>
+  do PowerShell enterprise a pipelines cognitivos com agentes de IA.
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0E1117&height=80&section=footer&fontSize=0" alt="divider" />
+
+</div>
+
+<!-- EM PRODUÇÃO ────────────────────────────────────────────────────── -->
+
+## ⚡ Em produção
+
+| Projeto | Tipo | Descrição |
+|---|---|---|
+| **[CEOPS](https://github.com/denalth/CEOPS_Otimizador_Windows)** | `institutional` | Otimizador Windows corporativo &mdash; modos Interactive / Silent / GPO, hardening e telemetria para frotas de TI pública. |
+| **Routify** | `institutional` | Sistema de otimização logística (TSP) para a SME/SEPOG &mdash; roteirização de veículos com NestJS + React Native + PostgreSQL. |
+| **Skills `cl-*`** | `private` | Framework cognitivo próprio &mdash; 17 skills de engenharia (PRD, TDD, FinOps, Supabase, code-review) que orquestram agentes de IA. |
+| **RDP Manager / Arsenall** | `internal` | Ferramentaria Windows para técnicos de campo &mdash; WPF + PowerShell, gestão de conexões RDP/SSH/Web com DPAPI e modo compartilhado. |
+
+> Repositórios marcados como `institutional` / `internal` / `private` não estão publicados por questões contratuais ou de maturidade. Disponíveis sob requisição.
+
 ---
 
-## 🕒 Linha do Tempo de Aprendizado
+<!-- STACK ──────────────────────────────────────────────────────────── -->
 
-- **2024** — Início dos estudos em tecnologia  
-- **2024–2025** — Explorando HTML, CSS, JavaScript e Python  
-- **2025** — Estudando com IA (antigravity, z.ai, Copilot, Google AI Studio)  
-- **Agora** — Construindo projetos pequenos e evoluindo minha base técnica  
+## 🧬 Stack
+
+```
+Automação    PowerShell 5.1+ · WPF/XAML · winget · GPO · BITS · DPAPI
+Web          Next.js 15 (App Router) · React 19 · TypeScript · Tailwind
+Backend      Supabase (PostgreSQL + RLS) · NestJS · Prisma · Edge Functions
+Infra        Docker · GitHub Actions · Conventional Commits
+Cognição     Agentes de IA · Skills `cl-*` · ADR · FinOps · SecOps
+Testes       Pester · Vitest · Playwright
+```
 
 ---
 
-<!-- 🐍 Animação da Cobrinha -->
+<!-- PRINCÍPIOS ─────────────────────────────────────────────────────── -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denalth/denalth/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denalth/denalth/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/denalth/denalth/output/github-contribution-grid-snake.svg">
-</picture>
+## 🧭 Princípios de engenharia
 
-<!--
----
-## 🌐 Como me encontrar
+```
+Anti-Frágil            Sistemas que melhoram sob estresse
+Autodocumentado        Código é a documentação primária
+Observável             Tudo emite sinais. Sem sinais, não existe.
+95% de Certeza         Abaixo disso, declarar "dados insuficientes"
+Zero Mediocridade      Rigor técnico inabalável
+```
 
-- Email: seuemail@exemplo.com  
-- LinkedIn: seu-linkedin  
-- Portfólio (em construção): seu-site  
--->
 ---
 
-## ✨ Visão
+<!-- CONTEXTO ───────────────────────────────────────────────────────── -->
 
-Quero construir uma trajetória sólida na tecnologia, aprendendo com consistência e criando projetos que reflitam meu crescimento.  
-Cada repositório aqui representa um passo dessa jornada — e cada passo nasce de uma ideia.
+## 🌍 Contexto
+
+- 📍 **Fortaleza/CE, Brasil**
+- 🏛️ Atuação em **TI pública municipal** (Prefeitura de Fortaleza / SME-CEOPS / SEPOG)
+- 🤖 Engenharia assistida por IA desde **2024** &mdash; Z.ai, Antigravity, Cline, ZCode
+- 🧠 Mantenedor do arquivo-mestre **AGENTS.md** (Protocolo Global de Engenharia vSINGULARITY_ZENITH_v2)
+
 ---
 
-## 📊 Métricas do GitHub
+<!-- CONTATO ────────────────────────────────────────────────────────── -->
 
-<img src="./metrics.svg" alt="GitHub Metrics">
+## 📫 Contato
 
+```
+denalth@gmail.com
+github.com/denalth
+Fortaleza/CE · Brasil
+```
 
+---
 
+<div align="center">
 
-<!--
-**denalth/denalth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<sub><i>
+@denalth &mdash; Singularidade Técnica &mdash; vSINGULARITY_ZENITH_v2
+</i></sub>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
